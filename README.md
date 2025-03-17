@@ -8,10 +8,8 @@ This is the **Admin Dashboard** for a full-stack e-commerce platform, built usin
 - **React** – Component-based UI
 - **Tailwind CSS** – Utility-first styling
 - **Prisma** – ORM for database management
-- **MongoDB** – Database
-- **Supabase** – Scalable database solution
-- **NextAuth.js** – Authentication
-- **Clerk** – User management
+- **Supabase** – Database
+- **Clerk** – Authentication & User Management
 - **Stripe** – Payment processing
 
 ## 📌 Features
